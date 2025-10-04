@@ -1,0 +1,8 @@
+tmp-uploads/
+vendor/
+composer.lock
+*.log
+.DS_Store
+.phpunit.result.cache
+mailing/subscribers.db
+.env
